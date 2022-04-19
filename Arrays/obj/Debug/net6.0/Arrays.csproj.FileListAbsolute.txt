@@ -1,0 +1,15 @@
+C:\Projects\Practice\LeetCode\CodingPractice\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Projects\Practice\LeetCode\CodingPractice\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Projects\Practice\LeetCode\CodingPractice\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Projects\Practice\LeetCode\CodingPractice\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Projects\Practice\LeetCode\CodingPractice\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Projects\Practice\LeetCode\CodingPractice\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Projects\Practice\LeetCode\CodingPractice\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Practice\LeetCode\CodingPractice\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Projects\Practice\LeetCode\CodingPractice\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Projects\Practice\LeetCode\CodingPractice\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Projects\Practice\LeetCode\CodingPractice\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Projects\Practice\LeetCode\CodingPractice\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+C:\Projects\Practice\LeetCode\CodingPractice\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Projects\Practice\LeetCode\CodingPractice\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+C:\Projects\Practice\LeetCode\CodingPractice\Arrays\obj\Debug\net6.0\ref\Arrays.dll
